@@ -4,7 +4,7 @@
     "cpus": 4
   },
   "waitFor": "onCreateCommand",
-  "updateContentCommand": "chmod +x setup.sh && ./setup.sh",
+  "updateContentCommand": "chmod +x setup-with-triton-source.sh && ./setup-with-triton-source.sh",
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
