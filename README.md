@@ -1,7 +1,15 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# How to use the Triton tutorial Codespace
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+1. Go to https://github.com/codespaces (you must have a Github account and sign in)
+2. Click **New Codespace**
+3. For **Repository**, type in and select **bmyerz0/triton-cpu-emulation**
+4. For all other options, leave them as the defaults
+5. The first time you open the Codespace, you will need to wait a few moments for installation (seen in **TERMINAL** tab) to finish. It will say **Running updateContentCommand...** while busy. Once finished, the **TERMINAL** tab has a shell promt.
+6. Open the notebooks in the notebooks folder.
+7. The first time you **Run All** in a notebook with Python code (softmax.ipynb), you'll need to select a kernel. Choose **Python Environments...** then **Python 3.10.8**.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## Tips
+
+The Codespace uses free tier time on Azure.
+When you are not using the Codespace, go to https://github.com/codespaces and stop it.
