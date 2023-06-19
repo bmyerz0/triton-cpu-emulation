@@ -11,7 +11,7 @@
 ## Tips
 
 The Codespace uses free tier time on Azure.
-When you are not using the Codespace, go to [Github Codespaces](https://github.com/codespaces and stop it).
+When you are not using the Codespace, go to [Github Codespaces](https://github.com/codespaces) and stop it.
 
 # Just view the notebooks without running them
 
