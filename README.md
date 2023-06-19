@@ -13,6 +13,6 @@
 The Codespace uses free tier time on Azure.
 When you are not using the Codespace, go to https://github.com/codespaces and stop it.
 
-# Just view the notebook without running it
+# Just view the notebooks without running them
 
 You can look at the  [static notebooks from within Github](https://github.com/bmyerz0/triton-cpu-emulation/tree/main/notebooks).
