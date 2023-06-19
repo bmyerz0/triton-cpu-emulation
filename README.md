@@ -1,6 +1,6 @@
 # How to use the Triton tutorial Codespace
 
-1. Go to https://github.com/codespaces (you must have a Github account and sign in)
+1. Go to [Github Codespaces](https://github.com/codespaces) (you must have a Github account and sign in)
 2. Click **New Codespace**
 3. For **Repository**, type in and select **bmyerz0/triton-cpu-emulation**
 4. For all other options, leave them as the defaults
@@ -11,7 +11,7 @@
 ## Tips
 
 The Codespace uses free tier time on Azure.
-When you are not using the Codespace, go to https://github.com/codespaces and stop it.
+When you are not using the Codespace, go to [Github Codespaces](https://github.com/codespaces and stop it).
 
 # Just view the notebooks without running them
 
