@@ -8,8 +8,11 @@
 6. Open the notebooks in the notebooks folder.
 7. The first time you **Run All** in a notebook with Python code (softmax.ipynb), you'll need to select a kernel. Choose **Python Environments...** then **Python 3.10.8**.
 
-
 ## Tips
 
 The Codespace uses free tier time on Azure.
 When you are not using the Codespace, go to https://github.com/codespaces and stop it.
+
+# Just view the notebook without running it
+
+You can [look at the static notebooks](https://github.com/bmyerz0/triton-cpu-emulation/tree/main/notebooks).
