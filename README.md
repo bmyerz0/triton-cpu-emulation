@@ -15,4 +15,4 @@ When you are not using the Codespace, go to https://github.com/codespaces and st
 
 # Just view the notebook without running it
 
-You can [look at the static notebooks](https://github.com/bmyerz0/triton-cpu-emulation/tree/main/notebooks).
+You can look at the  [static notebooks from within Github](https://github.com/bmyerz0/triton-cpu-emulation/tree/main/notebooks).
