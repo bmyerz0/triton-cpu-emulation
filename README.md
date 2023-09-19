@@ -41,8 +41,8 @@ You can look at the  [static notebooks from within Github](https://github.com/bm
 
 # General tips
 
-GitHub Codespaces uses free tier time on Azure.
-When you are not using the Codespace, go to [Github Codespaces](https://github.com/codespaces) and stop it.
+GitHub Codespaces by default uses free tier time on Azure.
+To save your hours, when you are not using the Codespace, go to [Github Codespaces](https://github.com/codespaces) and stop it.
 
 # Current limitations of the Codespace
 
