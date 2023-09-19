@@ -50,7 +50,7 @@ If you want to see how the original tutorials have been modified to run on the i
 
 The Codespace currently uses a [patch on a particular commit of Triton](https://github.com/bmyerz0/triton/tree/dev/bmyerz0/codespaces-support-with-tutorials). This commit is newer than Triton 2.0 release, but older than HEAD.
 
-The patch is required for running the Triton interpreter on a CPU version of Pytorch. There are several places that assume device='cuda' even though device='cpu' actually works fine for the interpreter.
+The patch is required for running the Triton interpreter on a CPU version of PyTorch. There are several places that assume device='cuda' even though device='cpu' actually works fine for the interpreter.
 
 ## Not using the latest Triton interpreter
 
