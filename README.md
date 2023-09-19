@@ -39,6 +39,11 @@ The Codespace contains an in depth tutorials in Jupyter notebooks.
 
 You can look at the  [static notebooks from within Github](https://github.com/bmyerz0/triton-cpu-emulation/tree/main/notebooks).
 
+# General tips
+
+GitHub Codespaces uses free tier time on Azure.
+When you are not using the Codespace, go to [Github Codespaces](https://github.com/codespaces) and stop it.
+
 # Current limitations of the Codespace
 
 ## Runs in Triton interpreter
@@ -56,7 +61,3 @@ The patch is required for running the Triton interpreter on a CPU version of PyT
 
 As of [this feature](https://github.com/openai/triton/pull/2321), Triton has a newer interpreter mode. This Codespace does not yet use it.
 
-## Tips
-
-The Codespace uses free tier time on Azure.
-When you are not using the Codespace, go to [Github Codespaces](https://github.com/codespaces) and stop it.
