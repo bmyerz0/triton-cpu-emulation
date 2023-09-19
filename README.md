@@ -43,6 +43,10 @@ The Codespace currently uses a [patch on a particular commit of Triton](https://
 
 The patch is required for running the Triton interpreter on a CPU version of Pytorch. There are several places that assume device='cuda' even though device='cpu' actually works fine for the interpreter.
 
+## Not using the last Triton interpreter
+
+As of [this feature](https://github.com/openai/triton/pull/2321), Triton has a newer interpreter mode. This Codespace does not yet use it.
+
 ## Tips
 
 The Codespace uses free tier time on Azure.
