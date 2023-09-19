@@ -18,8 +18,9 @@ The Codespace comes with a subset of the [Triton tutorials](https://triton-lang.
 To find the tutorial source code, navigate in the file explorer pane to triton/python/tutorials.
 
 To run the tutorials
-`cd triton/python/tutorials`
-`python 01-vector-add.py`
+
+```cd triton/python/tutorials
+python 01-vector-add.py```
 
 # Take the in-depth tutorial
 The Codespace contains in-depth tutorials in Jupyter notebooks.
