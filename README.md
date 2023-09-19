@@ -6,7 +6,7 @@ But if you **just want to try the language or start learning**, this Codespace o
 
 # Who this is for
 
-* **Who this Codespace is for**: you want to learn about and try the Triton language, including how it interoperates with PyTorch
+* **Who this Codespace is for**: you want to learn about and try the Triton language, including its interoperation with PyTorch
 * **Who this Codespace is NOT for**: you want to use Triton on a GPU, for performance purposes
 
 # How start the Triton Codespace
