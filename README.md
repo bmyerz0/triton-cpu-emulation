@@ -1,7 +1,8 @@
-# Triton tutorial Codespace: Start using Triton with zero setup
+# Triton tutorial Codespace: Start using Triton with ZERO setup
 
 If you want to try [Triton](https://github.com/openai/triton), it currently requires having a CUDA compute compatible GPU and installed device drivers.
-If you just want to try the language or start learning, this Codespace offers a pre-configured environment that runs in the cloud. It only requires a Github account.
+
+If you **just want to try the language or start learning**, this Codespace offers a pre-configured environment that runs in the cloud. It only requires a Github account.
 
 # How start the Triton tutorial Codespace
 
