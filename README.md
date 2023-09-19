@@ -19,8 +19,10 @@ To find the tutorial source code, navigate in the file explorer pane to triton/p
 
 To run the tutorials
 
-```cd triton/python/tutorials
-python 01-vector-add.py```
+```
+cd triton/python/tutorials
+python 01-vector-add.py
+```
 
 # Take the in-depth tutorial
 The Codespace contains in-depth tutorials in Jupyter notebooks.
